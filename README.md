@@ -68,7 +68,7 @@
 ## Some of My Projects
 
 Here are some projects I've worked on. Stay tuned for updates!  
-*(You can add your project details and links here later)*
+*(I will add my newest projects when i finish each one of them)*
 
 <!-- Connect with me -->
 ## Connect With Me🤝
