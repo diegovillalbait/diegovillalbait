@@ -67,16 +67,8 @@
 <!-- Project Showcase -->
 ## Some of My Projects
 
-Here are a few projects I've worked on. Feel free to check them out:
-
-- [**E-commerce Website**](https://github.com/DiegoVillalba/e-commerce-project)  
-  A full-stack e-commerce application built with **Java**, **Kotlin**, and **MySQL**. Features include product listings, a shopping cart, and user authentication.
-
-- [**Personal Blog**](https://github.com/DiegoVillalba/personal-blog)  
-  A **Kotlin** and **HTML** based blog application where I share my knowledge and experiences in **web development**.
-
-- [**Weather App**](https://github.com/DiegoVillalba/weather-app)  
-  A weather application using **JavaScript** and **HTML** to fetch weather data from an API and display it in a responsive layout.
+Here are some projects I've worked on. Stay tuned for updates!  
+*(You can add your project details and links here later)*
 
 <!-- Connect with me -->
 ## Connect With Me🤝
@@ -88,7 +80,9 @@ Here are a few projects I've worked on. Feel free to check them out:
 
 <!-- Profile Visit Count -->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=DiegoVillalba&icon=3&color=6)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=DiegoVillalba&icon=3&color=6" alt="Profile visit count" />
+  </a>
 </div>
 
 <!--horizontal divider(gradiant)-->
