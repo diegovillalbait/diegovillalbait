@@ -16,9 +16,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando con **Java**, **Kotlin**, **HTML** y **MySQL** para crear aplicaciones web dinámicas.
+- 🔭 Actualmente estoy trabajando con **Java**, **Kotlin**, **HTML** y **MySQL** para crear aplicaciones dinámicas.
 
-- 🌱 Estoy aprendiendo a crear **aplicaciones full-stack** e **integrar sistemas complejos de back-end** con **Firebase** y **Kotlin**.
+- 🌱 Estoy aprendiendo a crear **aplicaciones full-stack** e **integrar sistemas complejos de back-end** con **Firebase**, **Kotlin** y **Flutter**.
 
 - 👨‍💻 Apasionado por el **Desarrollo de Aplicaciones**. También disfruto del desarrollo web, pero prefiero, principalmente, este tipo de programación.
 
