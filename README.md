@@ -11,7 +11,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Recién graduado en Desarrollo de Software (DAM 2)</h2></summary>
+    <summary><h2 style="display: inline-block">Recién graduado en Desarrollo de Aplicaciones Multiplataforma (DAM 2)</h2></summary>
   </ul>
 </div>
 
