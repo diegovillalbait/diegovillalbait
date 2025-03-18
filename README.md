@@ -11,7 +11,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Recién graduado de DAM 2</h2></summary>
+    <summary><h2 style="display: inline-block">Recently Graduated in Software Development (DAM 2)</h2></summary>
   </ul>
 </div>
 
@@ -26,9 +26,30 @@
 
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
+<!-- Badges -->
 <p align="center">
-  <!--- stats (start) -->
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  </a>
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  </a>
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+</p>
+
+<!-- Stats & Trophy -->
+<p align="center">
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
@@ -41,34 +62,18 @@
       </td>
     </tr>
   </table>
-<!--- stats (end) -->
+</p>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
+<!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,html,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,html,mysql" />
   </a>
 </p>
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/diegovillalba/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/diegovillalba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+  <a href="https://www.linkedin.com/in/diegovillalbagaraballu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mailto:diegovillalbait@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" /></a>
 </p>
 
