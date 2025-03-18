@@ -83,4 +83,4 @@ Aquí están algunos proyectos en los que he trabajado. ¡Mantente atento a las 
 
 ----------------------------------------------------------------------  
 Créditos: [Diego Villalba](https://github.com/DiegoVillalba)  
-Última edición: 29/4/2023
+Última edición: 18/03/2025
