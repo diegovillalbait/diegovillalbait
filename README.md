@@ -26,7 +26,7 @@
 
 - 📫 Feel free to reach out to me: **diegovillalbait@gmail.com**
 
-- 💬 Let’s talk about **Web Development, Java, Kotlin, MySQL, and Problem-Solving**.
+- 💬 Let’s talk about **Java, Kotlin, MySQL, and Problem-Solving**.
 
 <!--Intro end-->
 
