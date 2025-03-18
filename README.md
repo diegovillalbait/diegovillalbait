@@ -4,29 +4,29 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Diego Villalba</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola 👋, soy Diego Villalba!</h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Recently Graduated in Software Development (DAM 2)</h2></summary>
+    <summary><h2 style="display: inline-block">Recién graduado en Desarrollo de Software (DAM 2)</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working with **Java**, **Kotlin**, **HTML**, and **MySQL** to build dynamic web applications.
+- 🔭 Actualmente estoy trabajando con **Java**, **Kotlin**, **HTML** y **MySQL** para crear aplicaciones web dinámicas.
 
-- 🌱 I’m learning how to create **full-stack applications** and **integrate complex back-end systems** with **MySQL** and **Kotlin**.
+- 🌱 Estoy aprendiendo a crear **aplicaciones full-stack** e **integrar sistemas complejos de back-end** con **MySQL** y **Kotlin**.
 
-- 👨‍💻 Passionate about **Web Development**, I aim to craft responsive and functional web applications with modern technologies.
+- 👨‍💻 Apasionado por el **Desarrollo de Aplicaciones**. También disfruto del desarrollo web, pero prefiero, principalmente, este tipo de programación.
 
-- 📝 In my free time, I enjoy writing articles on **Hashnode** about web development and learning new technologies.
+- 📝 En mi tiempo libre, me gusta crear nuevos proyectos y aprender cómo funcionan y cuáles son sus funcionalidades.
 
-- 📫 Feel free to reach out to me: **diegovillalbait@gmail.com**
+- 📫 No dudes en ponerte en contacto conmigo a través de: **diegovillalbait@gmail.com**
 
-- 💬 Let’s talk about **Java, Kotlin, MySQL, and Problem-Solving**.
+- 💬 Hablemos sobre **Java, Kotlin, MySQL y Resolución de Problemas**.
 
 <!--Intro end-->
 
@@ -65,13 +65,13 @@
 </p>
 
 <!-- Project Showcase -->
-## Some of My Projects
+## Algunos de Mis Proyectos
 
-Here are some projects I've worked on. Stay tuned for updates!  
-*(I will add my newest projects when i finish each one of them)*
+Aquí están algunos proyectos en los que he trabajado. ¡Mantente atento a las actualizaciones!  
+*(Añadiré mis proyectos más recientes cuando termine con cada uno de ellos)*
 
 <!-- Connect with me -->
-## Connect With Me🤝
+## Conéctate Conmigo 🤝
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diegovillalbagaraballu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
@@ -82,5 +82,5 @@ Here are some projects I've worked on. Stay tuned for updates!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------  
-Credit: [Diego Villalba](https://github.com/DiegoVillalba)  
-Last Edited on: 29/4/2023
+Créditos: [Diego Villalba](https://github.com/DiegoVillalba)  
+Última edición: 29/4/2023
