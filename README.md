@@ -16,13 +16,17 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, Kotlin, HTML, MySQL**
+- 🔭 I’m currently working with **Java**, **Kotlin**, **HTML**, and **MySQL** to build dynamic web applications.
 
-- 🌱 I’m currently learning **to put together full-stack applications with Java and Kotlin.**
+- 🌱 I’m learning how to create **full-stack applications** and **integrate complex back-end systems** with **MySQL** and **Kotlin**.
 
-- 📝 Feel free to reach me at my email: **diegovillalbait@gmail.com**
+- 👨‍💻 Passionate about **Web Development**, I aim to craft responsive and functional web applications with modern technologies.
 
-- 💬 Ask me about **Java, Kotlin, MySQL, Web Development**!
+- 📝 In my free time, I enjoy writing articles on **Hashnode** about web development and learning new technologies.
+
+- 📫 Feel free to reach out to me: **diegovillalbait@gmail.com**
+
+- 💬 Let’s talk about **Web Development, Java, Kotlin, MySQL, and Problem-Solving**.
 
 <!--Intro end-->
 
@@ -37,15 +41,6 @@
   <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  </a>
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </a>
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
 </p>
 
 <!-- Stats & Trophy -->
@@ -54,8 +49,6 @@
     <tr border="none">
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoVillalba&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoVillalba&theme=dark&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoVillalba&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -71,13 +64,29 @@
   </a>
 </p>
 
+<!-- Project Showcase -->
+## Some of My Projects
+
+Here are a few projects I've worked on. Feel free to check them out:
+
+- [**E-commerce Website**](https://github.com/DiegoVillalba/e-commerce-project)  
+  A full-stack e-commerce application built with **Java**, **Kotlin**, and **MySQL**. Features include product listings, a shopping cart, and user authentication.
+
+- [**Personal Blog**](https://github.com/DiegoVillalba/personal-blog)  
+  A **Kotlin** and **HTML** based blog application where I share my knowledge and experiences in **web development**.
+
+- [**Weather App**](https://github.com/DiegoVillalba/weather-app)  
+  A weather application using **JavaScript** and **HTML** to fetch weather data from an API and display it in a responsive layout.
+
 <!-- Connect with me -->
+## Connect With Me🤝
+
 <p align="center">
   <a href="https://www.linkedin.com/in/diegovillalbagaraballu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mailto:diegovillalbait@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" /></a>
 </p>
 
-<!--profile visit count-->
+<!-- Profile Visit Count -->
 <div align="center">
   [![](https://visitcount.itsvg.in/api?id=DiegoVillalba&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
