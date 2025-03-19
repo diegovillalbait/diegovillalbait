@@ -75,7 +75,9 @@ Aquí están algunos proyectos en los que he trabajado. ¡Mantente atento a las 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diegovillalbagaraballu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:diegovillalbait@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" /></a>
+  <a href="mailto:diegovillalbait@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50"/>
+</a>
 </p>
 
 <!--horizontal divider(gradiant)-->
@@ -84,3 +86,4 @@ Aquí están algunos proyectos en los que he trabajado. ¡Mantente atento a las 
 ----------------------------------------------------------------------  
 Créditos: [Diego Villalba](https://github.com/DiegoVillalba)  
 Última edición: 18/03/2025
+ 
