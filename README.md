@@ -1,13 +1,13 @@
 <!-- Horizontal Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Title without Bottom Border -->
+<!-- Presentación -->
 <h1 align="center">¡Hola 👋, soy Diego Villalba!</h1>
 
-<!-- Animated Typing -->
-<h2 align="center">
+<!-- Texto animado -->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&height=50&lines=Desarrollador+de+Aplicaciones+Multiplataforma+(DAM)" />
-</h2>
+</p>
 
 <!-- Introducción -->
 <p align="center">
