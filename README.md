@@ -6,7 +6,7 @@
 
 <!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&height=50&lines=Desarrollador+de+Aplicaciones+Multiplataforma+(DAM)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=50&lines=Desarrollador+de+Aplicaciones+Multiplataforma+(DAM)&repeat=false" />
 </p>
 
 <!-- Introducción -->
