@@ -6,7 +6,7 @@
 
 <!-- Animated Typing -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&height=50&lines=%C2%A1Hola%2C+soy+Diego+Villalba!;Desarrollador+de+Aplicaciones+Multiplataforma+(DAM)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&height=50&lines=Desarrollador+de+Aplicaciones+Multiplataforma+(DAM)" />
 </h2>
 
 <!-- Introducción -->
