@@ -12,7 +12,7 @@
 <!-- Introducción -->
 <p align="center">
   🔭 Actualmente estoy trabajando con <strong>Java</strong>, <strong>Kotlin</strong>, <strong>HTML</strong> y <strong>MySQL</strong> para crear aplicaciones dinámicas.  
-  <br>🌱 Aprendiendo <strong>Full-Stack Development</strong> con <strong>Firebase</strong>, <strong>Kotlin</strong> y <strong>Flutter</strong>.  
+  <br>🌱 Aprendiendo <strong>Frontend Development</strong> con <strong>Kotlin</strong> y <strong>Flutter</strong>.  
   <br>💡 Apasionado por el <strong>Desarrollo de Aplicaciones</strong> y resolución de problemas.  
   <br>📫 Contáctame en: <strong>diegovillalbait@gmail.com</strong>.  
 </p>
